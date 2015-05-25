@@ -1,0 +1,8 @@
+# OSX.
+.DS_Store
+
+# Vim.
+*.sw*
+
+# Compilation output.
+vbox_bug
